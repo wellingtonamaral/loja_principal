@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326319611559",
+    "firebase_url": "https://loja-virtual-pro-e5cd6.firebaseio.com",
+    "project_id": "loja-virtual-pro-e5cd6",
+    "storage_bucket": "loja-virtual-pro-e5cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326319611559:android:dfdc736039645859178582",
+        "android_client_info": {
+          "package_name": "br.com.amaral.loja_principal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326319611559-cu1hua7tpnnq3tdgk76qcjlbb0dsv71e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.amaral.loja_principal",
+            "certificate_hash": "c347458dfd6b3c2d67b89fb778a7a066c34317fc"
+          }
+        },
+        {
+          "client_id": "326319611559-04jh1nj4c1o35rfo6isi5cks1ceotjsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIM9SfummeTEfaaJtzYA9YVXSQUrEmkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326319611559-04jh1nj4c1o35rfo6isi5cks1ceotjsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
